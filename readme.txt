@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-plongi is WordPress theme for scuba diving related websites, like your dive center website, blogs, etc.
+plongi is a WordPress theme for scuba diving related websites, like your dive center website, blogs, etc.
 
 It is a Full Site Editing theme based on Twenty Twenty-Two and Twenty Twenty-Three. The theme can be fully customized and adapted to your needs.
 
